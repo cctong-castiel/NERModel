@@ -1,0 +1,7 @@
+*pycache*
+*.log*
+*.ipynb*
+NERModel/**
+config/config.py
+config.py
+data/*

@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  nermodel:
+    image: nermodel
+    build: .
+    environment:
+      PORT: 721
+    ports:
+      - 8964:721
+    restart: always
+    shm_size: 1G

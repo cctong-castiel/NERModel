@@ -1,0 +1,8 @@
+**/__pycache__
+*.ipynb*
+*.git
+*.log*
+NERModel/**
+config/config.py 
+data/*
+README.md
