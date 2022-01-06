@@ -21,4 +21,3 @@
 }
 ```
 - return: a dictionary of entity count
-# NERModel
